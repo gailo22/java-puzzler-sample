@@ -1,4 +1,4 @@
-java-pluzzler-sample
+java-puzzler-sample
 ====================
 
 Code from Java Puzzlers book
